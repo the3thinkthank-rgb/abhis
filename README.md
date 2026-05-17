@@ -50,16 +50,14 @@ ABHIS is a modular eco-mechatronic smart hive monitoring platform designed speci
 
 The platform integrates:
 
-# | Technology = Function |
-
-| 🌡️ Temperature & Humidity Sensors = Monitor brood conditions |
-| ⚖️ Load Cells = Track hive weight & honey production |
-| 🎤 Acoustic Sensors = Detect swarming & queenlessness |
-| 📷 Computer Vision = Monitor bee traffic & predators |
-| 🌍 Climate Analytics = Predict environmental stress |
-| 🤖 Edge AI = Local hive health analysis |
-| 📡 GSM/SMS Communication = Offline-friendly alerts |
-| 🌞 Solar Energy = Autonomous off-grid operation |
+- 🌡️ **Temperature & Humidity Sensors** — Monitor brood conditions and internal hive climate.
+- ⚖️ **Load Cells** — Track hive weight, nectar flow, and honey production trends.
+- 🎤 **Acoustic Sensors** — Detect swarming behavior, queenlessness, and stress patterns.
+- 📷 **Computer Vision** — Monitor bee traffic, pollination activity, and predator presence.
+- 🌍 **Climate Analytics** — Predict environmental stress and climate-related hive risks.
+- 🤖 **Edge AI** — Perform local hive health analysis using embedded intelligence.
+- 📡 **GSM/SMS Communication** — Deliver offline-friendly alerts and beekeeper notifications.
+- 🌞 **Solar Energy System** — Enable autonomous and continuous off-grid operation.
 
 ---
 
