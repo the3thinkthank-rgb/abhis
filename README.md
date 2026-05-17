@@ -51,7 +51,7 @@ ABHIS is a modular eco-mechatronic smart hive monitoring platform designed speci
 The platform integrates:
 
 # | Technology = Function |
-|--- = ---|
+
 | 🌡️ Temperature & Humidity Sensors = Monitor brood conditions |
 | ⚖️ Load Cells = Track hive weight & honey production |
 | 🎤 Acoustic Sensors = Detect swarming & queenlessness |
